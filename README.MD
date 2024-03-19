@@ -8,7 +8,8 @@
 
 ## How to Use
 1. Navigate to the document page that you'd like to download.
-2. Wait for the download button to turn green, then click the button to start the download.
+2. Resolve the captcha that will preview the document
+3. Wait for the download button to turn green, then click the button to start the download.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
